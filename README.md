@@ -1,4 +1,4 @@
- Advanced CLI Contact Management System
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9cbf8224-ae9f-4a90-979d-7c03841bb355" /> Advanced CLI Contact Management System
 
 > A professional **Command-Line Contact Management System** built with Python — simulating a real-world mini CRM (Customer Relationship Management) tool.
 
@@ -127,3 +127,5 @@ Python Developer — Task 1 Submission
  License
 
 This project is for educational purposes.
+"Demo Video"
+https://drive.google.com/file/d/1W_D65bMajEGK4cDKpokkR3AnFhVgPm5h/view?usp=sharing
