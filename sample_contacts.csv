@@ -1,0 +1,9 @@
+id,name,phone,email,city,company,favorite,created
+1,Ali Hassan,+92-300-1234567,ali.hassan@gmail.com,Karachi,TechCorp,True,2026-06-01 09:00
+2,Sara Ahmed,+92-321-9876543,sara.ahmed@yahoo.com,Lahore,DesignHub,False,2026-06-02 10:30
+3,Usman Khan,+92-333-5554433,usman.khan@outlook.com,Islamabad,NetSol Technologies,True,2026-06-03 11:15
+4,Zara Malik,+92-345-7778899,zara.malik@company.pk,Karachi,SysOrg,False,2026-06-04 14:00
+5,Bilal Raza,+92-312-4445566,bilal.raza@hotmail.com,Peshawar,DevSolutions,False,2026-06-05 09:45
+6,Hina Qureshi,+92-301-6667788,hina.qureshi@gmail.com,Lahore,CodeBase,True,2026-06-06 13:20
+7,Fahad Siddiqui,+92-322-1112233,fahad.siddiqui@techhub.pk,Karachi,TechHub,False,2026-06-07 16:00
+8,Ayesha Noor,+92-311-9990011,ayesha.noor@softlink.com,Islamabad,Softlink,True,2026-06-08 08:30
